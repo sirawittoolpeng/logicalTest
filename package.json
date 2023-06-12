@@ -1,0 +1,14 @@
+{
+  "name": "logicalTest",
+  "version": "1.0.0",
+  "main": "validate.js",
+  "repository": "https://github.com/sirawittoolpeng/logicalTest.git",
+  "author": "Sirawit Toolpeng <sirawit.toolpeng@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
